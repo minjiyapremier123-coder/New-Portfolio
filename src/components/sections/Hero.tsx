@@ -45,14 +45,8 @@ export default function Hero() {
 
           <h1 className="text-5xl font-black leading-tight text-white md:text-7xl">
 
-            <span className="block">Jiya</span>
-
-            <span className="block text-violet-500">
-
-              Min
-
-            </span>
-
+            Jiya
+            <br />
           </h1>
 
           <div className="mt-8 text-3xl font-semibold text-slate-200">

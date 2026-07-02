@@ -33,7 +33,7 @@ export default function Navbar() {
           href="#hero"
           className="text-2xl font-black bg-gradient-to-r from-cyan-400 to-violet-500 bg-clip-text text-transparent"
         >
-          Jiya<span className="text-white">Min</span>
+          Jiya<span className="text-white inline-block ml-2">Min</span>
         </a>
 
         {/* Desktop Navigation */}
