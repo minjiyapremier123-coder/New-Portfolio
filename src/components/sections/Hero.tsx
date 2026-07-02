@@ -45,13 +45,11 @@ export default function Hero() {
 
           <h1 className="text-5xl font-black leading-tight text-white md:text-7xl">
 
-            JIYA
+            <span className="block">Jiya</span>
 
-            <br />
+            <span className="block text-violet-500">
 
-            <span className="text-violet-500">
-
-              MIN
+              Min
 
             </span>
 
@@ -91,15 +89,7 @@ export default function Hero() {
 
           <p className="mt-8 max-w-xl text-lg leading-8 text-slate-400">
 
-            Building scalable software with clean architecture,
-
-            modern web technologies,
-
-            and impactful digital experiences.
-
-            Currently pursuing B.Tech in Electronics & Communication Engineering
-
-            at IIIT Kota with a CGPA of <span className="text-cyan-400 font-semibold">8.70</span>.
+            Jiya.
 
           </p>
 
