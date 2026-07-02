@@ -89,7 +89,15 @@ export default function Hero() {
 
           <p className="mt-8 max-w-xl text-lg leading-8 text-slate-400">
 
-            Jiya.
+            Building scalable software with clean architecture,
+
+            modern web technologies,
+
+            and impactful digital experiences.
+
+            Currently pursuing B.Tech in Electronics & Communication Engineering
+
+            at IIIT Kota with a CGPA of <span className="text-cyan-400 font-semibold">8.70</span>.
 
           </p>
 
