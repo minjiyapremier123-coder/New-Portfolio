@@ -51,7 +51,7 @@ export default function Navbar() {
 
         {/* Resume Button */}
         <a
-          href="/resume.pdf"
+          href="/Resume_Min_Jiya_Vinaybhai.pdf"
           download
           className="hidden lg:flex px-5 py-2 rounded-xl bg-gradient-to-r from-cyan-500 to-violet-600 font-semibold hover:scale-105 transition"
         >
@@ -86,7 +86,7 @@ export default function Navbar() {
           ))}
 
           <a
-            href="/resume.pdf"
+            href="/Resume_Min_Jiya_Vinaybhai.pdf"
             download
             className="block m-6 text-center rounded-xl bg-gradient-to-r from-cyan-500 to-violet-600 py-3 font-semibold"
           >

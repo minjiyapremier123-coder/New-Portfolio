@@ -100,7 +100,7 @@ export default function Hero() {
           <div className="mt-10 flex flex-wrap gap-5">
 
             <a
-              href="/resume.pdf"
+              href="/Resume_Min_Jiya_Vinaybhai.pdf"
               className="flex items-center gap-2 rounded-xl bg-violet-600 px-7 py-4 font-semibold transition hover:bg-violet-700"
             >
               <Download size={20} />

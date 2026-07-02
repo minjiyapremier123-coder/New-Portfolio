@@ -134,7 +134,7 @@ export default function Contact() {
           <div className="flex flex-wrap justify-center gap-5 mt-10">
 
             <a
-              href="/resume.pdf"
+              href="/Resume_Min_Jiya_Vinaybhai.pdf"
               download
               className="flex items-center gap-3 rounded-xl bg-cyan-500 px-7 py-3 font-semibold hover:bg-cyan-600 transition"
             >
